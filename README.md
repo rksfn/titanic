@@ -41,7 +41,7 @@ The neural network consists of:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/titanic.git
+git clone https://github.com/rksfn/titanic.git
 cd titanic
 ```
 
